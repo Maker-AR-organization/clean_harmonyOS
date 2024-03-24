@@ -1,0 +1,18 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/Login",
+    "pages/Register",
+    "pages/LoadingPage",
+    "pages/SettingPage",
+    "pages/Settings/ExperimentalFunction",
+    "pages/Settings/DeviceSetting",
+    "pages/Settings/DeviceTimeZone",
+    "pages/Settings/VolumeSetting",
+    "pages/Settings/CleanRecord",
+    "pages/Settings/RemoteControl",
+    "pages/Settings/DeviceName",
+    "pages/Settings/ExceptionManagement",
+    "pages/GarbageSortingPage"
+  ]
+}
